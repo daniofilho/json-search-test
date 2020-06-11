@@ -1,4 +1,4 @@
-# Fuse.js Test
+# JSON Search Test
 
 `yarn` para instalar as dependências
 
